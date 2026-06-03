@@ -1,2 +1,2 @@
-# Assignment-1
-AI-Driven-Career-Guidance
+jeet practice
+This is my 1st project 
